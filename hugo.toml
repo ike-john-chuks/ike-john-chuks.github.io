@@ -46,6 +46,11 @@ disableKinds = ["taxonomy", "term"]
     weight = 45
 
   [[menu.main]]
+    name = "Community"
+    pageRef = "/community"
+    weight = 47
+
+  [[menu.main]]
     name = "CV"
     pageRef = "/cv"
     weight = 50
